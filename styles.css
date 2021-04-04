@@ -2,23 +2,20 @@ body {
   background-color: rgb(216, 216, 46);
 }
 nav {
-  color: white;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: brown;
+  font-family: "Train One", cursive;
   font-stretch: expanded;
 }
 header {
   justify-content: center;
-  color: white;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: brown;
+  font-family: "Train One", cursive;
   display: flex;
 }
 
 p {
-  color: white;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: brown;
+  font-family: "Train One", cursive;
   text-align: center;
   justify-content: center;
 }
@@ -29,4 +26,6 @@ img {
   margin-left: auto;
   width: 35%;
   height: 35%;
+  border-color: brown;
+  border-radius: 10%;
 }
